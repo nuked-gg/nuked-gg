@@ -9,7 +9,7 @@ projects in progress
 
 - MockOS (post-poned)
   
-- CatOS (branch of MockOS) (private)
+- CatOS (branch of MockOS) (privated)
   
 <hr>
 
