@@ -18,5 +18,13 @@ finished projects
 - randomized color test (my first project!!)
   
 - father day gift thingy (privated)
-  
 
+<hr>
+
+planned projects
+
+- Mobile Contribution Graph
+  (html file to show my github contribution graph through ios shortcuts)
+
+- small neural network
+  (idk how im gonna plan this yet)
