@@ -1,16 +1,22 @@
-## Hi there 👋
+## nuked.gg
+- decent knowledge of lua/luaU
+- currently learning html/css/js
+- planning to jump to learning python then eventually c++
+  
+<hr>
 
-<!--
-**nuked-gg/nuked-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+projects in progress
 
-Here are some ideas to get you started:
+- MockOS (post-poned)
+  
+- CatOS (branch of MockOS) (private)
+  
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+finished projects
+
+- randomized color test (my first project!!)
+  
+- father day gift thingy (privated)
+  
+
