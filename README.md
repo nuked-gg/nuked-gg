@@ -28,5 +28,3 @@ planned projects
 
 - small neural network
   (idk how im gonna plan this yet)
-
-- 
