@@ -9,7 +9,7 @@ projects in progress
 
 - MockOS (post-poned)
   
-- CatOS (branch of MockOS) (privated)
+- CatOS (fork of MockOS) (privated)
   
 <hr>
 
@@ -28,3 +28,5 @@ planned projects
 
 - small neural network
   (idk how im gonna plan this yet)
+
+- 
