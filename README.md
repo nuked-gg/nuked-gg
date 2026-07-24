@@ -1,4 +1,4 @@
-## nuked.gg
+## Profile
 - decent knowledge of lua/luaU
 - currently learning html/css/js
 - planning to jump to learning python then eventually c++
