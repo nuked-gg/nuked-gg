@@ -5,7 +5,7 @@
   
 <hr>
 
-projects in progress
+# projects in progress
 
 - MockOS (post-poned)
   
@@ -13,7 +13,7 @@ projects in progress
   
 <hr>
 
-finished projects
+# finished projects
 
 - randomized color test (my first project!!)
   
@@ -21,10 +21,13 @@ finished projects
 
 <hr>
 
-planned projects
+# planned projects
 
 - Mobile Contribution Graph
-  (html file to show my github contribution graph through ios shortcuts)
+  (html file to show a cleaner and more complete github profile through ios shortcuts)
 
 - small neural network
   (idk how im gonna plan this yet)
+
+- simple drawing pad test
+  (will have an erase and pencil too, maybe colors idkk)
