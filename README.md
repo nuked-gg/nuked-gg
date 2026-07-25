@@ -3,7 +3,6 @@
 - currently learning html/css/js
 - planning to jump to learning python then eventually c++
   
-<hr>
 
 # projects in progress
 
@@ -11,7 +10,7 @@
   
 - CatOS (fork of MockOS) (privated)
   
-<hr>
+
 
 # finished projects
 
@@ -19,7 +18,7 @@
   
 - father day gift thingy (privated)
 
-<hr>
+
 
 # planned projects
 
