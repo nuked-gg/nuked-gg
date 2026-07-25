@@ -30,3 +30,5 @@
 
 - simple drawing pad test
   (will have an erase and pencil too, maybe colors idkk)
+
+- ollama run web scraper for recipe organizer website
