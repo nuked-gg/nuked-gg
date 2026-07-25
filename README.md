@@ -1,10 +1,10 @@
-## Profile
+# Profile
 - decent knowledge of lua/luaU
 - currently learning html/css/js
 - planning to jump to learning python then eventually c++
   
 
-# projects in progress
+## projects in progress
 
 - MockOS (post-poned)
   
@@ -12,7 +12,7 @@
   
 
 
-# finished projects
+## finished projects
 
 - randomized color test (my first project!!)
   
@@ -20,7 +20,7 @@
 
 
 
-# planned projects
+## planned projects
 
 - Mobile Contribution Graph
   (html file to show a cleaner and more complete github profile through ios shortcuts)
