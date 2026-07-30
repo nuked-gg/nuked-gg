@@ -32,3 +32,5 @@
   (will have an erase and pencil too, maybe colors idkk)
 
 - ollama run web scraper for recipe organizer website
+ 
+- javascript, python, c++ documentation on the web (netlify)
