@@ -1,6 +1,6 @@
 # Profile
-- decent knowledge of lua/luaU
-- currently learning html/css/js
+- good knowledge of lua/luaU, html/css/js
+- currently learning python
 - planning to jump to learning python then eventually c++
   
 
@@ -9,6 +9,8 @@
 - MockOS (post-poned)
   
 - CatOS (fork of MockOS) (privated)
+
+- PyPlayingAround
   
 
 
